@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Pessoas\Cadastrar Pessoas\bin\Debug\Cadastrar Pessoas.exe.config
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Pessoas\Cadastrar Pessoas\bin\Debug\Cadastrar Pessoas.exe
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Pessoas\Cadastrar Pessoas\bin\Debug\Cadastrar Pessoas.pdb
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Pessoas\Cadastrar Pessoas\obj\Debug\Cadastrar Pessoas.csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Pessoas\Cadastrar Pessoas\obj\Debug\Cadastrar Pessoas.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Pessoas\Cadastrar Pessoas\obj\Debug\Cadastrar Pessoas.csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Pessoas\Cadastrar Pessoas\obj\Debug\Cadastrar Pessoas.exe
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Pessoas\Cadastrar Pessoas\obj\Debug\Cadastrar Pessoas.pdb
